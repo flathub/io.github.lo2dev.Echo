@@ -46,8 +46,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/lo2dev/Echo.git",
-                    "tag": "1.0",
-                    "commit": "110ca7092417460c5e1a2d834d5a7ff46ebef70a"
+                    "tag": "1.1",
+                    "commit": "f41d3ffa76c800ab617c6d3ea15da3d189e05400"
                 }
             ]
         }
