@@ -1,7 +1,7 @@
 {
     "id" : "io.github.lo2dev.Echo",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "46",
+    "runtime-version" : "47",
     "sdk" : "org.gnome.Sdk",
     "command" : "echo",
     "finish-args" : [
@@ -31,7 +31,7 @@
                 {
                     "type" : "git",
                     "url" : "https://gitlab.gnome.org/jwestman/blueprint-compiler",
-                    "tag" : "v0.10.0"
+                    "tag" : "v0.14.0"
                 }
             ],
             "cleanup" : [
@@ -46,8 +46,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/lo2dev/Echo.git",
-                    "tag": "1.2",
-                    "commit": "897887a47e9c92aa211f18638b3d470e4ccf72db"
+                    "tag": "2.0",
+                    "commit": "76b117cef5868a3987c91f2b3e79f3d86448807d"
                 }
             ]
         }
